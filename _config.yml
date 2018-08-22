@@ -21,7 +21,7 @@ description: >
 baseurl: "/mcjournalism/" # the subpath of your site, e.g. /blog/
 url: "https://seangreene.github.io" # the base hostname & protocol for your site
 cover: ""
-logo: "https://pbs.twimg.com/profile_images/918100521986146304/yLewoYL2_400x400.jpg"
+logo: "logo.jpg"
 
 # Build settings
 markdown: kramdown
