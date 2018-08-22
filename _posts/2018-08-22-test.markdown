@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "This is a test post"
-date:   2018-08-22 00:00:00
+date:   2018-08-22 12:00:00
 author: Sean Greene
-categories: 
+categories: M02
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
