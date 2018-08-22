@@ -3,7 +3,7 @@ layout: post
 title:  "This is a test post"
 date:   2012-07-05 08:43:59
 author: Sean Greene
-categories: M02 Summer 2018
+categories: "M02 Summer 2018"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
