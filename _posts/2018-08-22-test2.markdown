@@ -4,6 +4,7 @@ title:  "This is another test post"
 date:   2018-08-22 12:00:00
 author: Sean Greene
 categories: M02
+blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 

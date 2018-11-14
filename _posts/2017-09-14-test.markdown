@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "50 Years of Student Success"
+date:   2017-09-14 12:00:00
+author: Martin Bilbao, Eric Caldwell and Cole Carlson
+categories: M15 multimedia
+blurb: Students in JOUR M15 produced this 8-minute feature for Moorpark College's 50th anniversary celebration.
+embed: "<div class='embed-container'><iframe src='https://www.youtube.com/embed/7cYwi-WGFTg' frameborder='0' allowfullscreen></iframe></div>"
+---
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/7cYwi-WGFTg' frameborder='0' allowfullscreen></iframe></div>
