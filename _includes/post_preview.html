@@ -2,12 +2,14 @@
   <h2>
     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
   </h2>
-  <p class="byline">By {{ post.author }}</p>
-  <section class="post-excerpt" itemprop="description">
-    <p>{{ post.blurb }}</p>
+  <div class="left">
     {% if post.embed %}
       {{ post.embed }}
     {% endif %}
+  </div>
+  <p class="byline">By {{ post.author }}</p>
+  <section class="post-excerpt" itemprop="description">
+    <p>{{ post.blurb }}</p>
   </section>
   <section class="post-meta">
     <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
