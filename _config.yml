@@ -20,8 +20,8 @@ description: >
 # root of your server.
 baseurl: "/mcjournalism" # the subpath of your site, e.g. /blog/
 url: "https://seangreene.github.io" # the base hostname & protocol for your site
-cover: ""
-logo: "/assets/MCJlogo.jpg"
+cover: "banner.jpg"
+logo: "/assets/MCJlogo-blue.jpg"
 
 # Build settings
 markdown: kramdown
