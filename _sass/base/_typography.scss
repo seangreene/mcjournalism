@@ -59,7 +59,10 @@ a {
     outline: none;
   }
 }
-
+p a { 
+  color: $blue;
+  text-decoration: underline; 
+}
 hr {
   border-bottom: $base-border;
   border-left: none;

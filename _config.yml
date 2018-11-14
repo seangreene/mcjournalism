@@ -10,17 +10,17 @@ exclude:
 
 # Site settings
 title: Moorpark College Journalism
-subtitle: "A showcase of student journalism"
+subtitle: ""
 email:
 name:
 description: >
-  A showcase of the writing and multimedia produced by Moorpark College's student journalists.
+  A showcase of Moorpark College student journalism.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "/mcjournalism" # the subpath of your site, e.g. /blog/
 url: "https://seangreene.github.io" # the base hostname & protocol for your site
-cover: "banner.jpg"
+cover: "/assets/banner.jpg"
 logo: "/assets/MCJlogo-blue.jpg"
 
 # Build settings
@@ -30,15 +30,27 @@ paginate_path: "/page:num/"
 inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
 
+
+collections:
+  category:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"    
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layout: 'archive'
-  permalinks:
-    category: '/category/:name/'
-    tag: '/tag/:name/'
+#jekyll-archives:
+#  enabled:
+#    - categories
+#    - tags
+#  layout: 'archive'
+#  permalinks:
+#    category: '/category/:name/'
+#    tag: '/tag/:name/'
 
 # Disqus comments
 # disqus_shortname: bencentra
